@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 gem 'rails',          '5.1.4'
 gem 'bcrypt',         '3.1.12'
 gem 'faker',          '1.7.3'
+gem 'rack',           '2.0.6'
+gem 'loofah',         '2.2.3'
 # 画像アップローダー
 gem 'carrierwave',    '1.2.2'
 # 画像リサイズ
