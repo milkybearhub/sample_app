@@ -5,6 +5,9 @@ gem 'bcrypt',         '3.1.12'
 gem 'faker',          '1.7.3'
 gem 'rack',           '2.0.6'
 gem 'loofah',         '2.2.3'
+# erbの代わりにslimを適用
+gem 'slim-rails',     '3.2.0'
+gem 'html2slim',      '0.2.0'
 # 画像アップローダー
 gem 'carrierwave',    '1.2.2'
 # 画像リサイズ
